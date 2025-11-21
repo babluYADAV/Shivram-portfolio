@@ -59,7 +59,7 @@ export const experiences = [
   {
     title: "United Airlines",
     company_name: "Luxoft",
-    icon: eduskill,
+    icon: reactjs,
     iconBg: "#161329",
     date: "Oct 2024 – Present",
     points: [
@@ -72,7 +72,7 @@ export const experiences = [
   {
     title: "Disa Modernization",
     company_name: "GlobalLogic",
-    icon: mathwork,
+    icon: reactjs,
     iconBg: "#161329",
     date: "Jul 2022 – Aug 2024,",
     points: [
@@ -85,7 +85,7 @@ export const experiences = [
   {
     title: "Sinclair broadcasting",
     company_name: "GlobalLogic",
-    icon: edunet,
+    icon: reactjs,
     iconBg: "#161329",
     date: "Jul 2022 – Aug 2024",
     points: [
@@ -100,7 +100,7 @@ export const experiences = [
     {
     title: "Verizon",
     company_name: "Publicis Sapient",
-    icon: edunet,
+    icon: reactjs,
     iconBg: "#161329",
     date: "Nov 2021 – Jul 2022",
     points: [
@@ -114,7 +114,7 @@ export const experiences = [
     {
     title: "IDFC Bank Credit-Card",
     company_name: "Xebia It Architect",
-    icon: edunet,
+    icon: reactjs,
     iconBg: "#161329",
     date: "Nov 2020 – Sept 2021",
     points: [
@@ -128,7 +128,7 @@ export const experiences = [
     {
     title: "Erin",
     company_name: "Tech ahead Pvt Ltd",
-    icon: edunet,
+    icon: reactjs,
     iconBg: "#161329",
     date: "Jul 2019 – Nov 2019",
     points: [
@@ -140,7 +140,7 @@ export const experiences = [
    {
     title: "Yeswa Ecommerce Application",
     company_name: "Root Info Solutions",
-    icon: edunet,
+    icon: reactjs,
     iconBg: "#161329",
     date: "Feb 2018 – Jul 2019,",
     points: [
