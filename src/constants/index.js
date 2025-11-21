@@ -1,8 +1,5 @@
 import {
-  c,
-  python,
-  java,
-  cpp,
+
   javascript,
   html,
   css,
@@ -38,10 +35,13 @@ export const navLinks = [
 ];
 
 export const services = [
-  { title: "C", icon: c },
-  { title: "C++", icon: cpp },
-  { title: "Python", icon: python },
-  { title: "Java", icon: java },
+  { title: "ReactJS", icon: reactjs },
+  { title: "JAVASCRIPT", icon: javascript },
+  { title: "NodeJS", icon: nodejs },
+  { title: "HTML", icon: html },
+  { title: "CSS", icon: css },
+   { title: "Tailwind CSS", icon: tailwind },
+    { title: "Git", icon: git },
 ];
 
 export const technologies = [
@@ -57,39 +57,100 @@ export const technologies = [
 
 export const experiences = [
   {
-    title: "AI/ML Intern",
-    company_name: "EduSkill Foundation | AWS Academy | AICTE",
+    title: "United Airlines",
+    company_name: "Luxoft",
     icon: eduskill,
     iconBg: "#161329",
-    date: "Sep 2023 - Nov 2023",
+    date: "Oct 2024 – Present",
     points: [
-      "Acquired hands-on knowledge of AWS Cloud Foundation, delving into cloud infrastructure, services, and deployment.",
-      "also gaining a solid foundation in Machine Learning, covering topics like algorithms, data analysis, and model building.",
+      "Developed immersive scrolly telling screens with 3D animations.",
+      "Worked on native ad creation in Google Ad Manager.",  
+      "Integrated Betria map and many other functionalities and bugs.",
     ],
+    TechStack: [ "ReactJS", "React Hooks", "React Testing Library", "SCSS","HTML", "TypeScript", "Git","Google Ad Manager"],
   },
   {
-    title: "Mathwork Ai Virtual Intern",
-    company_name: "Mathwork | AICTE",
+    title: "Disa Modernization",
+    company_name: "GlobalLogic",
     icon: mathwork,
     iconBg: "#161329",
-    date: "May 2023 - Sep 2023",
+    date: "Jul 2022 – Aug 2024,",
     points: [
-      "Completed virtual internship, gaining a strong foundation in MATLAB, including data analysis and processing.",
-      "Acquired practical skills in image and signal processing, including segmentation, batch processing, and spectral analysis.",
-      "Developed expertise in machine learning models for clustering, classification, and regression, and customized deep learning techniques for image classification.",
+      "I have written unit testing to increase code coverage.", 
+     "This was a maintenance project, so I have fixed many bugs and implemented few new features.", 
+      "I have worked on application performance optimization.",
     ],
+    TechStack:[ "React", "React Hooks", "React Testing Library", "Redux", "Redux Saga", "SCSS","HTML", "TypeScript", "TypeScript JSX (TSX)", "Git"],
   },
   {
-    title: "Artificial Intelligence Intern",
-    company_name: "Edunet Foundation | IBM SkillsBuild | AICTE",
+    title: "Sinclair broadcasting",
+    company_name: "GlobalLogic",
     icon: edunet,
     iconBg: "#161329",
-    date: "June 2023 - July 2023",
+    date: "Jul 2022 – Aug 2024",
     points: [
-      "Engineered a comprehensive Mental Health Fitness Tracker ML model utilizing Python and scikit-learn.",
-      "Maximized the model's performance by refining model parameters and employing ensemble methods, yielding an outstanding accuracy percentage of 98.50%.",
-      "Leveraged 12 regression algorithms to attain precise outcomes in analyzing and predicting mental fitness levels across 150+ countries.",
+      "In this Project I have worked on bug fixes and written unit test case.", 
+      "I this project I have written UI automation using selenium WebDriver and jest.",
+       "This project I have written few API end points using node JS.",
+       "I have worked on API automation using jest and postman"
     ],
+    TechStack:[ "React", "react hooks", "React Testing Library", "Redux", "Redux Saga", "SCSS","HTML", "TypeScript", "TypeScript JSX (TSX)"]
+  },
+
+    {
+    title: "Verizon",
+    company_name: "Publicis Sapient",
+    icon: edunet,
+    iconBg: "#161329",
+    date: "Nov 2021 – Jul 2022",
+    points: [
+      "In this project I have worked on different modules like creating forms.",
+      "I have created message bus to communicate different applications.",
+      "I have implemented Axios interceptor and few common components.",
+    ],
+    TechStack:[ "Micro Frontends", "React", "React hooks", "Redux", "Redux Saga", "SCSS","HTML", "TypeScript", "TypeScript JSX (TSX)"]
+  },
+
+    {
+    title: "IDFC Bank Credit-Card",
+    company_name: "Xebia It Architect",
+    icon: edunet,
+    iconBg: "#161329",
+    date: "Nov 2020 – Sept 2021",
+    points: [
+      "I have worked on temporary block, permanent block, unblock features.",
+   "I have worked on generating virtual card",
+   " I have worked on showing lists of active and inactive credit cards."
+    ],
+    TechStack:["Jest", "React", "react hooks", "React Native", "Redux", "Redux Thunk", "Unit Testing"]
+  },
+
+    {
+    title: "Erin",
+    company_name: "Tech ahead Pvt Ltd",
+    icon: edunet,
+    iconBg: "#161329",
+    date: "Jul 2019 – Nov 2019",
+    points: [
+      "I have worked on this project for enhancement.",
+      "It is an organizational app in which any member of the organization can send referrals to their colleagues",
+    ],
+    TechStack:["Middleware", "React", "react hooks", "React Native", "Redux", "TypeScript JSX (TSX)"]
+  },
+   {
+    title: "Yeswa Ecommerce Application",
+    company_name: "Root Info Solutions",
+    icon: edunet,
+    iconBg: "#161329",
+    date: "Feb 2018 – Jul 2019,",
+    points: [
+      "Yeswa is an ecommerce application. In this application I have worked on customer and vendor module.", 
+       "I have worked on showing list of products.",  
+       "Showing product availability to nearby store on map.",
+        "I have implemented vendor dashboard where vendor can see the purchase details on any products.", 
+        "I have worked on add to cart feature.",
+    ],
+    TechStack:["Cascading Style Sheets (CSS)", "HTML", "React", "React Native", "Redux Thunk", "JavaScript"]
   },
 ];
 
