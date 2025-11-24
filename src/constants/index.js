@@ -58,7 +58,7 @@ export const technologies = [
 export const experiences = [
   {
     title: "United Airlines",
-    company_name: "Luxoft",
+    company_name: "Luxoft - Senior Software Engineer",
     icon: reactjs,
     iconBg: "#161329",
     date: "Oct 2024 – Present",
@@ -71,7 +71,7 @@ export const experiences = [
   },
   {
     title: "Disa Modernization",
-    company_name: "GlobalLogic",
+    company_name: "GlobalLogic - Senior Software Engineer",
     icon: reactjs,
     iconBg: "#161329",
     date: "Jul 2022 – Aug 2024,",
@@ -84,7 +84,7 @@ export const experiences = [
   },
   {
     title: "Sinclair broadcasting",
-    company_name: "GlobalLogic",
+    company_name: "GlobalLogic - Senior Software Engineer",
     icon: reactjs,
     iconBg: "#161329",
     date: "Jul 2022 – Aug 2024",
@@ -99,7 +99,7 @@ export const experiences = [
 
     {
     title: "Verizon",
-    company_name: "Publicis Sapient",
+    company_name: "Publicis Sapient - Associate Technology L2",
     icon: reactjs,
     iconBg: "#161329",
     date: "Nov 2021 – Jul 2022",
@@ -113,7 +113,7 @@ export const experiences = [
 
     {
     title: "IDFC Bank Credit-Card",
-    company_name: "Xebia It Architect",
+    company_name: "Xebia It Architect - Consultant",
     icon: reactjs,
     iconBg: "#161329",
     date: "Nov 2020 – Sept 2021",
@@ -127,7 +127,7 @@ export const experiences = [
 
     {
     title: "Erin",
-    company_name: "Tech ahead Pvt Ltd",
+    company_name: "Tech ahead Pvt Ltd - Associate Software Engineer",
     icon: reactjs,
     iconBg: "#161329",
     date: "Jul 2019 – Nov 2019",
@@ -139,7 +139,7 @@ export const experiences = [
   },
    {
     title: "Yeswa Ecommerce Application",
-    company_name: "Root Info Solutions",
+    company_name: "Root Info Solutions - Associate Software Engineer",
     icon: reactjs,
     iconBg: "#161329",
     date: "Feb 2018 – Jul 2019,",
