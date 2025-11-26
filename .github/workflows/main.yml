@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      
+
 env:
   CI: false
 
@@ -24,7 +24,7 @@ jobs:
           cache: 'npm'
           
       - name: Install dependencies
-        uses: npm ci
+        run: npm ci
 
       - name: Build project
         run: npm run build
@@ -43,7 +43,7 @@ jobs:
 
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4
         with:
           name: production-files
           path: ./build
